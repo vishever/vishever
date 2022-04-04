@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishever
 - 👀 I’m interested in learning Full Stack Development.
-- 🌱 I’m currently learning Github, Splunk Query Language, Ansible, Python and later planning on learning MongoDB, Javascript, Golang, Terraform, json, yaml, Java
+- 🌱 I’m currently learning Github, Splunk Query Language, Ansible, json, yaml, Python and later planning on learning MongoDB, Javascript, Golang, Terraform, Java
 - 💞️ I’m looking to collaborate on Splunk Query Language
 - 📫 How to reach me, vishever12@gmail.com
 
